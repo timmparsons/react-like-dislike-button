@@ -1,0 +1,9 @@
+button {
+  border-radius: 0 !important;
+}
+
+.liked,
+.disliked {
+  color: blue;
+  font-weight: bold;
+}
